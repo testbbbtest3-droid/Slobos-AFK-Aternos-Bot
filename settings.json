@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thirstybirds.aternos.me,
+    "ip": "thirstybirds.aternos.me",
     "port": 40662,
     "version": "",
     "try-creative": false
