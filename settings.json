@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "thirstybirds.aternos.me,
+    "port": 40662,
     "version": "",
     "try-creative": false
   },
